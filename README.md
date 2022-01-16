@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @uchecukwu324
+- 👋 Hi, I’m @uchechukwu324
 - 👀 I’m interested in computer programming
 - 🌱 I’m currently learning javascript
 - 📫 How to reach me f_uchenna@yahoo.com
